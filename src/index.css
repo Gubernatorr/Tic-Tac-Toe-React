@@ -11,3 +11,24 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+.square{
+  width: 30px;
+  height: 30px;
+  font-size: 22px;
+  text-align: center;
+  vertical-align: middle;
+}
+.game-board{
+  width: 120px;
+  height: 120px;
+  /* background-color: bisque; */
+  display: inline-table;
+}
+.game-info{
+  display: inline-block;
+  /* background-color: aqua; */
+  vertical-align: top;
+}
+.game{
+  /* background-color: aquamarine; */
+}
